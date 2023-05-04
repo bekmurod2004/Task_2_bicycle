@@ -4,13 +4,18 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b50619-e689-40a8-bdb0-dd93d229fb9e" name="Changes" comment="" />
+    <list default="true" id="03b50619-e689-40a8-bdb0-dd93d229fb9e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bicycle-store_/api/api.go" beforeDir="false" afterPath="$PROJECT_DIR$/bicycle-store_/api/api.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bicycle-store_/config/config.go" beforeDir="false" afterPath="$PROJECT_DIR$/bicycle-store_/config/config.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bicycle-store_/storage/postgresql/Exam.go" beforeDir="false" afterPath="$PROJECT_DIR$/bicycle-store_/storage/postgresql/Exam.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../binlar/golang_1_20_2/go1.20.3" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../../binlar/golang_1_20_2/go1.20.3" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -33,7 +38,9 @@
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/Bek/Desktop/Examen/Task_2_bycicle/bicycle-store_"
+    "last_opened_file_path": "C:/Users/Bek",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

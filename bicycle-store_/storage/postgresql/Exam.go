@@ -26,7 +26,18 @@ FROM orders
          JOIN staffs ON orders.staff_id = staffs.staff_id
 WHERE orders.order_date = $1`
 
-	date, error := time.Parse("2006-01-02", req.Day)
+	var hh string
+
+	if req.Day == "" {
+		dt := time.Now()
+		hh = dt.Format("2006-02-01")
+	} else {
+		hh = req.Day
+	}
+
+	fmt.Println("This time -----> ", hh)
+
+	date, error := time.Parse("2006-01-02", hh)
 	if error != nil {
 		fmt.Println(error)
 		return
